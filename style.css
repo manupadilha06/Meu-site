@@ -7,4 +7,12 @@ h1 {color: #000099 ;
 p {
 font-Size: 16px;
 color:#5656e6;
+
+}
+
+header {
+  border-botton: solid 3px #ca9c11 ;
+  padding: 10px;
+  font-size: 22px;
+  color: white;
 }
